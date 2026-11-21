@@ -10,8 +10,10 @@ The separate Cursor/Gemini proposal in this directory points at the canonical
 remote server. That server has a payment-bearing execution tool and must be
 reviewed against the destination's policies before publication.
 
-Support: kevin@macaroonnetwork.com
+Support: hello@macaroonnetwork.com
 
 Privacy: https://macaroonnetwork.com/privacy
 Terms: https://macaroonnetwork.com/terms
-Support: kevin@macaroonnetwork.com
+Support: hello@macaroonnetwork.com
+
+Website: https://macaroonnetwork.com
