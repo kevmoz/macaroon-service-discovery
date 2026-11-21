@@ -1,0 +1,8 @@
+{
+  "name": "macaroon-service-discovery",
+  "version": "0.1.0",
+  "description": "Compare Macaroon public data service contracts and inspect unsigned x402 quotes.",
+  "author": {
+    "name": "Macaroon Network"
+  }
+}
